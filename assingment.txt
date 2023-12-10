@@ -1,0 +1,1 @@
+add another page to your website and name the displaying text at the fronted as views meanwhile let your backend file be named views as well.
